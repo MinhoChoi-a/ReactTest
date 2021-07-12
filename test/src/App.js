@@ -1,9 +1,9 @@
-import React, { useState, useEffect } from 'react'
-import logo from './logo.svg';
+import React from 'react'
 import DataFetchTable from './components/dataFetchTable';
 
 import './App.css'
 
+//import basic theme of primereact
 import '../node_modules/primereact/resources/themes/saga-blue/theme.css'
 import '../node_modules/primereact/resources/primereact.min.css'
 import '../node_modules/primeicons/primeicons.css'
